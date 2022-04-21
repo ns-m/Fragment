@@ -1,5 +1,8 @@
 <resources>
     <string name="app_name">Fragment</string>
+    <string name="app_message">Message</string>
+    <string name="app_send_message_frg2">Send message</string>
+    <string name="app_send_message_actv">Send message Activity</string>
     <!-- TODO: Remove or change this placeholder text -->
     <string name="hello_blank_fragment">Hello blank fragment</string>
 </resources>
