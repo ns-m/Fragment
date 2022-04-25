@@ -3,7 +3,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context=".BlankFragment">
+    tools:context=".BlankFragmentTop">
 
     <!-- TODO: Update blank fragment layout -->
     <LinearLayout
@@ -13,6 +13,7 @@
         android:orientation="vertical">
 
         <TextView
+            android:id="@+id/textViewFrgmTp"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:text="@string/app_message" />
@@ -22,7 +23,7 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_marginTop="5dp"
-            android:text="@string/app_send_message_frg2" />
+            android:text="@string/app_send_message_frg_tp" />
 
         <Button
             android:id="@+id/buttonSendToActv"
